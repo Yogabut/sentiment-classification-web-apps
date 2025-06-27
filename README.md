@@ -13,7 +13,7 @@ This project is a sentiment classification web application built to analyze user
 
 ```
 
-📁 [`/preview`](./preview/flow.png)
+![](./preview/flow.png)
 
 ````
 
@@ -60,8 +60,8 @@ git clone https://github.com/Yogabut/sentiment-classification-web-apps.git
 
 Preview images and UI screens can be found in the following folder:
 
-📁 [`/preview`](./preview/landing_page.png)
-📁 [`/preview`](./preview/main_feature.png)
+![](./preview/landing_page.png)
+![](./preview/main_feature.png)
 
 
 ---
