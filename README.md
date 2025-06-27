@@ -1,6 +1,4 @@
-Sure! Here's the full `README.md` rewritten in English based on your structure and criteria:
 
-```markdown
 # Sentiment Classification Web Apps (myBCA apps Sentiment Classification)
 
 ## 1. 🧠 Introduction
