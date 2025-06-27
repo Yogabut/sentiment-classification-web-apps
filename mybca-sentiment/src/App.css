@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(to right, #040d2e, #041067, #040d2e);
+}
+
+App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Pastikan body dan html juga full height */
+/* html, body, #root {
+  height: 100%;
+} */
+
+/* Main content area yang akan mengambil ruang tersisa */
+/* main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+} */
+
