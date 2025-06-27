@@ -7,15 +7,11 @@ This project is a sentiment classification web application built to analyze user
 
 ---
 
-## 2. 🔁 Web Workflow
+## 2. 🔁 Web Workflow: movie_camera
 
 *A visual flowchart will be provided.*
 
-```
-
 ![](./preview/flow.png)
-
-````
 
 ---
 
