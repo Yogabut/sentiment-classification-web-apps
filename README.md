@@ -100,7 +100,3 @@ Preview images and UI screens can be found in the following folder:
 
 Built with ❤️ by [@Yogabut](https://github.com/Yogabut)
 
-```
-
-Let me know if you'd like me to add badges (e.g., license, build status), a deployment guide, or flowchart visuals to this!
-```
