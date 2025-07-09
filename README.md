@@ -88,7 +88,7 @@ Preview images and UI screens can be found in the following folder:
 ### 🖥️ Backend
 
 * Flask
-* FastAPI *(optional for future enhancements)*
+
 
 ### 💻 Frontend
 
